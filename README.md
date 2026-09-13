@@ -12,4 +12,4 @@ All iPhones now can turn on the feature everytime :)
 
 ## Link
 
-[https://keepgo-studio.github.io/ios-standby/](https://keepgo-studio.github.io/ios-standby/)
+https://one-commit.github.io/ios-standby/
